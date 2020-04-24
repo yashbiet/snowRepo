@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Sample Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Sample Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">8057b984db230010b70f7b823996198b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 22:44:13</sys_created_on>
+        <sys_id>174fd376db101010b70f7b82399619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sample Table</sys_name>
+        <sys_package display_value="Scoped App" source="x_14148_scoped_app">ccbd13b2db101010b70f7b8239961928</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped App">ccbd13b2db101010b70f7b8239961928</sys_scope>
+        <sys_update_name>sys_wizard_answer_174fd376db101010b70f7b82399619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 22:44:13</sys_updated_on>
+        <table/>
+        <target_url>x_14148_scoped_app_sample_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
